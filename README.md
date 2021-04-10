@@ -1,25 +1,20 @@
-- 👋 Hi, I’m @lokesh1987-hack
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning React js and Svelte
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me
+
        
-       
-<h1 align="center">Hi 👋, I'm Satyam Singh 🔥</h1>
+<h1 align="center">Hi 👋, I'm Lokesh Harode 🔥</h1>
 <h3 align="center">A passionate full Stack developer from India</h3>
 
-- 🔭 I’m currently working on **Gully Fantasy League App**
+- 🔭 I’m currently working on **Social App Management**
 
-- 📫 How to reach me **satyamsingh7766@gmail.com**
+- 📫 How to reach me **lokeshharode1987@gmail.com**
 
-- ⚡ Fun fact **I think I am funny**
+-  🌱 I’m currently learning React js and Svelte
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/satyams12045057" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="satyams12045057" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/satyam-singh-53245913a" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="satyam-singh-53245913a" height="30" width="40" /></a>
-<a href="https://fb.com/profile.php?id=100029186867683" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="profile.php?id=100029186867683" height="30" width="40" /></a>
-<a href="https://instagram.com/satyamsingh9058" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="satyamsingh9058" height="30" width="40" /></a>
+<a href="https://twitter.com/LokeshHarode2" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Lokesh_Harode" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/lokesh-harode-638106203/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Lokesh_Harode" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100008135053879" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Lokesh_Harode" height="30" width="40" /></a>
+<a href="https://www.instagram.com/lokeshharode1111/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Lokesh_Harode" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
