@@ -3,8 +3,9 @@
 - 🌱 I’m currently learning React js and Svelte
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me
-       Linkedin =>
        
+       
+       Linkedin =><img src="https://1000logos.net/wp-content/uploads/2017/03/LinkedIn-Logo-2003.jpg"/>
        Hackerrank => https://www.hackerrank.com/lokeshharode1987
        Instagram => Lokeshharode1111
        Facebook => Lokesh harode
