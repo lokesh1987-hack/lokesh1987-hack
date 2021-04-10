@@ -5,7 +5,7 @@
 - 📫 How to reach me
        
        
-       Linkedin =><img src="https://1000logos.net/wp-content/uploads/2017/03/LinkedIn-Logo-2003.jpg"/>
+       Linkedin =><a href="https://1000logos.net/wp-content/uploads/2017/03/LinkedIn-Logo-2003.jpg">hello <a/>
        Hackerrank => https://www.hackerrank.com/lokeshharode1987
        Instagram => Lokeshharode1111
        Facebook => Lokesh harode
