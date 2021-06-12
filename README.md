@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **lokeshharode1987@gmail.com**
 
--  🌱 I’m currently learning React js and Svelte
+-  🌱 I’m currently learning React js 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
