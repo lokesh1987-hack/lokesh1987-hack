@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Lokesh Harode 🔥</h1>
 <h3 align="center">A passionate full Stack developer from India</h3>
 
-- 🔭 I’m currently working on **Social App Management**
+- 🔭 I’m currently working on **Frontend**
 
 - 📫 How to reach me **lokeshharode1987@gmail.com**
 
